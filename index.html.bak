@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<style>
+.center {
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+h1, h2, p, form {
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+}
+</style>
+<head>
+<title>Praktikum SIG Web</title>
+</head>
+<body>
+
+<h1>Tugas Praktikum Minggu 5 dan 6</h1><br>
+<p><a target="_blank" href="leaflet_M5.html">LEaflet M5</a></p>  
+
+
+</body>
+</html>
+
+
